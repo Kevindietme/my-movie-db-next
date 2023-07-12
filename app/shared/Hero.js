@@ -1,4 +1,4 @@
-export default function Hero() {
+export default function Hero () {
     return(
         <section className="text-zinc-400 bg-zinc-900 body-font">
             <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
